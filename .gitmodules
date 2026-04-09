@@ -1,0 +1,6 @@
+[submodule "lifelink-client"]
+	path = lifelink-client
+	url = https://github.com/libresoul/lifelink-client.git
+[submodule "lifelink-api"]
+	path = lifelink-api
+	url = https://github.com/libresoul/lifelink-api.git
